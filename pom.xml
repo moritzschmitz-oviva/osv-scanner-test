@@ -41,11 +41,13 @@
         <version>${project.version}</version>
       </dependency>
       <!-- UNCOMMENT THIS AND IT WILL WORK -->
+      <!--
       <dependency>
         <groupId>io.quarkus</groupId>
         <artifactId>quarkus-vertx</artifactId>
         <version>3.24.0</version>
       </dependency>
+      -->
     </dependencies>
   </dependencyManagement>
 </project>
